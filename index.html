@@ -5,16 +5,20 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!--Link de Estilos-->
-    <link rel="stylesheet" href="style.css">
-    <link rel="stylesheet" href="/styles/button/button.css">
-    <link rel="stylesheet" href="/styles/input/input.css">
-    <link rel="stylesheet" href="/styles/listTasks/listTasks.css">
-    <title>Lista de Tarefas - by VictorTerra</title>
+    <link rel="stylesheet" href="https://victorbterra.github.io/listadetarefas/style.css">
+    <link rel="stylesheet" href="https://victorbterra.github.io/listadetarefas/styles/header/header.css">
+    <link rel="stylesheet" href="https://victorbterra.github.io/listadetarefas/styles/footer/footer.css">
+    <link rel="stylesheet" href="https://victorbterra.github.io/listadetarefas/styles/button/button.css">
+    <link rel="stylesheet" href="https://victorbterra.github.io/listadetarefas/styles/input/input.css">
+    <link rel="stylesheet" href="https://victorbterra.github.io/listadetarefas/styles/listTasks/listTasks.css">
+    <title>Lista de Tarefas</title>
 </head>
 
 <body>
-    <main>
+    <header>
         <h1 class="title">Lista de Tarefas</h1>
+    </header>
+    <main>
         <div class="content">
             <input type="text" id="taskInput" placeholder="Adicionar tarefa" required>
             <button class="btn-add" onclick="addTask()">Adicionar</button>
@@ -22,6 +26,9 @@
         <ul class="listTasks">
         </ul>
     </main>
+    <footer>
+        <p>Desenvolvido por Victor Terra &copy; 2024</p>
+    </footer>
 </body>
-<script src="index.js"></script>
+<script src="https://victorbterra.github.io/listadetarefas/index.js"></script>
 </html>

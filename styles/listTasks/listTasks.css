@@ -1,6 +1,8 @@
 .listTasks {
+  overflow-y: auto;
+  height: 350px;
   max-width: 480px;
-  margin: 0 auto;
+  margin-inline: auto;
 }
 
 .task {
@@ -21,6 +23,7 @@
 }
 
 .alert {
+  background-color: transparent;
   font-size: 1.5rem;
   color: #0534cc;
   margin-top: 2rem;

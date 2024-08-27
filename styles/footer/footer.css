@@ -1,0 +1,11 @@
+footer{
+  margin-top: 0.5rem;
+  padding-block: 0.75rem;
+  border-top: 1px solid #b9b9b9;
+}
+
+footer p{
+  color: black;
+  text-align: center;
+  background-color: transparent;
+}

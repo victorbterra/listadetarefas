@@ -27,7 +27,7 @@ main {
 .content {
   display: flex;
   max-width: 480px;
-  margin: 0 auto;
+  margin-inline: auto;
   padding: 1rem 0.75rem;
   -webkit-box-shadow: 4px 4px 8px -7px rgba(0, 0, 0, 0.5);
   -moz-box-shadow: 4px 4px 8px -7px rgba(0, 0, 0, 0.5);
@@ -39,4 +39,3 @@ main {
   flex-wrap: wrap;
   gap: 8px;
 }
-
