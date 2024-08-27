@@ -1,0 +1,28 @@
+.listTasks {
+  max-width: 480px;
+  margin: 0 auto;
+}
+
+.task {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: white;
+  border-bottom: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 1rem 0.75rem;
+  margin-bottom: 0.75rem;
+}
+
+.task-description {
+  font-size: 1rem;
+  font-weight: 500;
+  background-color: transparent;
+}
+
+.alert {
+  font-size: 1.5rem;
+  color: #0534cc;
+  margin-top: 2rem;
+  text-align: center;
+}
