@@ -41,3 +41,6 @@ Features que pretendo implementar ao longo dos meus estudos e evoluções na lin
 
 - Implementar um sistema de data/hora para as tarefas
 
+## Deploy do Projeto
+
+[![Deploy](https://victorbterra.github.io/listadetarefas/)
