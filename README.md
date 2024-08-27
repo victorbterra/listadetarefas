@@ -43,4 +43,4 @@ Features que pretendo implementar ao longo dos meus estudos e evoluções na lin
 
 ## Deploy do Projeto
 
-[![Deploy](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://victorbterra.github.io/listadetarefas/)
+[![Deploy](https://img.shields.io/badge/Deploy-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://victorbterra.github.io/listadetarefas/)
