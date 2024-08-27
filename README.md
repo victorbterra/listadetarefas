@@ -14,17 +14,16 @@ Este projeto de estudo implementa uma lista de tarefas interativa usando JavaScr
 
 ```http
 ToDoList/
-├── Javascript/
-│   └── index.js
 ├── styles/
 │   ├──button/
-│   │   └── index.css
+│   │ └── index.css
 │   ├── input/
-│   │   └── input.css
+│   │ └── input.css
 │   ├── listTasks/
-│   │   └── listTasks.css
-│   └── style.css
+│     └── listTasks.css
 └── index.html
+└── style.css
+└── index.js
 ```
 ## Possíveis Melhorias
 
